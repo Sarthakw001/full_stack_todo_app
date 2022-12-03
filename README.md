@@ -2,18 +2,7 @@
 
 ## Frontend UI -->
 
-![image](Capture.PNG) 
 
-<br>
-
-## Backend Structure -->
-![image](Untitled.jpg)
-
-<br>
-<!-- 
-### Tech Stack Used
-
-<br>
 
 ## Frontend -
     1. React
